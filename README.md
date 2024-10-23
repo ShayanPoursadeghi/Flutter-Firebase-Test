@@ -1,6 +1,6 @@
 It will be ready soon! Please Wait.
 
-<h1>📋 Online Shop Store App</h1>
+<h1>📋 Flutter-Firebase-Test</h1>
 
 This Online Shop Store App is a Flutter application
 
