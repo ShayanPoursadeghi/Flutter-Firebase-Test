@@ -1,4 +1,4 @@
-It will be ready soon! Please Wait.
+This is a repo for testing Firebase in Flutter.
 
 <h1>📋 Flutter-Firebase-Test</h1>
 
