@@ -94,7 +94,7 @@ flutter run
 <h2>🧩 BLoC Architecture Overview</h2>
 
 This project follows the **BLoC** architecture pattern to separate business logic from the UI layer. Here's how the BLoC structure works:
-- **Events**: Users' actions (e.g., searching for tasks, deleting tasks) are turned into events like <code>TaskListSearch</code> and <code>TaskListDeleteAll</code>.
+- **Events**: Users' actions (e.g., searching for tasks) are turned into events like <code>TaskListSearch</code> and <code>TaskListDeleteAll</code>.
 - **States**: The app reacts to events by emitting new states such as <code>TaskListLoading</code>, <code>TaskListSuccess</code>, <code>TaskListEmpty</code>, etc.
 - **BLoC (task_list_bloc.dart)**: Contains all the logic that reacts to events and emits states. It works as the "middle-man" between the UI and the data source.
 
